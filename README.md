@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **sebastian.o.couto@gmail.com**
 
-- 📄 Learn more about my experience: [LinkedIn](https://www.linkedin.com/in/sebastiancouto/) / [](https://your-resume-link.com)
+- 📄 Learn more about my experience: [LinkedIn](https://www.linkedin.com/in/sebastiancouto/)  [](https://your-resume-link.com)
 
 ---
 
@@ -87,10 +87,6 @@
   </a>
   <a href="https://www.linkedin.com/in/sebastiancouto/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastiancouto" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-id" height="30" width="40" />
-  </a>
 </p>
 
 ---
