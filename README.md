@@ -73,7 +73,8 @@
 
 <h3 align="left">Certifications:</h3>
 
-- Software Testing Fundamentals Certification (STFC)™  
+- Software Testing Fundamentals Certification (STFC)™
+- Accredited Scrum Master Certification (ASMC)™
 - JMeter Testing  
 - API Testing with Postman  
 - Automation with Selenium & Java  
