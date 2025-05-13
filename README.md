@@ -73,6 +73,7 @@
 
 <h3 align="left">Certifications:</h3>
 
+- ISTQB Foundation Level 4.0
 - Software Testing Fundamentals Certification (STFC)™
 - Accredited Scrum Master Certification (ASMC)™
 - JMeter Testing  
